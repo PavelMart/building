@@ -1,0 +1,106 @@
+{
+  "menu": [
+    { "title": "Our mission", "link": "our-mission" },
+    { "title": "About us", "link": "about-us" },
+    { "title": "Features", "link": "features" },
+    { "title": "Contacts", "link": "contacts" }
+  ],
+  "contactUsButton": "Contact us",
+  "promoTitle": "Transform your business with innovative solutions and trusted partnerships",
+  "promoText": "We bring a wealth of expertise and a commitment to transparency to every transaction. Our trusted approach and secure logistics services make trading easy and efficient, while our tailored solutions help you achieve your business goals. Partner with us and experience the difference a trusted trading partner can make.",
+  "sections": {
+    "ourMission": {
+      "title": "Our mission",
+      "activities": [
+        {
+          "id": 0,
+          "imageSrc": "./assets/images/activities/first.png",
+          "title": "Efficiency",
+          "text": "Our company delivers efficient solutions that meet our customers' needs. With our extensive knowledge of wholesale and commission agent activities, we provide reliable and trusted solutions that exceed our customers' expectations. We also provide cost-effective and timely solutions that deliver the right value to our customers. Moreover, we offer innovative solutions that help our customers stay ahead of the competition. Our experience and expertise in the industry allow us to deliver a range of benefits to our customers, helping them achieve their goals and succeed in today's market."
+        },
+        {
+          "id": 1,
+          "imageSrc": "./assets/images/activities/second.png",
+          "title": "Reliability",
+          "text": "Our primary focus is on providing high-quality services and building long-lasting relationships with our clients. We bring years of experience and strong industry connections to every transaction, ensuring that our clients receive the best possible outcomes. Whether we're working in wholesale, commission agent services, or facilitating transactions between sellers and buyers, we take full responsibility for every step of the process and prioritize reliability and transparency above all else."
+        },
+        {
+          "id": 2,
+          "imageSrc": "./assets/images/activities/third.png",
+          "title": "Innovation",
+          "text": "We believe that innovation is essential to staying ahead in a constantly evolving market. Our team is always exploring new technologies and approaches to enhance our services and provide even greater value to our clients. With our deep understanding of the industries we work in and our commitment to innovation, we are able to offer our clients unique and cutting-edge solutions that give them a competitive edge. From streamlining processes to developing new business models, we are always seeking ways to innovate and improve, and we bring that same mindset to every client engagement."
+        }
+      ]
+    },
+    "features": {
+      "title": "Features",
+      "featuresList": [
+        {
+          "imageSrc": "./assets/images/features/feature-1.jpg",
+          "title": "Customized Trading Solutions",
+          "text": "We provide flexible trading solutions for changing market conditions."
+        },
+        {
+          "imageSrc": "./assets/images/features/feature-2.jpg",
+          "title": "Marine Logistics & Transportation",
+          "text": "Reliable logistics services for global trade, with efficient petroleum product transport via expert shipping solutions from Turon Global Resource."
+        },
+        {
+          "imageSrc": "./assets/images/features/feature-3.jpg",
+          "title": "Advanced Operations Management",
+          "text": "Our advanced transaction management ensures smooth trading results for our customers."
+        },
+        {
+          "imageSrc": "./assets/images/features/feature-3.jpg",
+          "title": "Advanced Operations Managementttt",
+          "text": "Our advanced transaction management ensures smooth trading results for our customers."
+        }
+      ]
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "text": [
+        "Turon Global Resource is a leading trading company that specializes in the sale of commodities such as petrochemicals, oil, gas, mineral fertilizers, metals, and much more. With years of experience in the industry, we have built a reputation for providing exceptional service and expertise to our clients. Our team is comprised of industry experts who understand the complexities of trading and can help you navigate the market to achieve your business goals.",
+        "We are your partner for success in the world of trading. Our deep industry expertise, cutting-edge technology, and transparent approach make us the trusted choice for businesses around the world. Whether you're buying or selling commodities, we have the resources and knowledge to help you achieve your goals."
+      ]
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "company": "Turon Global Resource",
+      "address": "Office 801, One JLT, Jumeirah Lakes Towers, P.O. Box 625782, Dubai, U.A.E.",
+      "phone": "+97143754790",
+      "email": "inbox@turongr.com",
+      "formTitle": "Send us a message",
+      "inputs": [
+        { "tag": "input", "type": "text", "placeholder": "Name", "name": "name", "required": false },
+        { "tag": "input", "type": "email", "placeholder": "Email*", "name": "email", "required": true },
+        { "tag": "textarea", "placeholder": "Message", "name": "message", "required": false }
+      ]
+    }
+  },
+  "copyrightYear": "2023",
+  "copyrightText": "© Turon Global Resource, FZE. ALL Rights Reserved.",
+  "form": {
+    "title": "Create account",
+    "firstNamePlaseholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "telegramPlaceholder": "Telegram (optional)",
+    "platforms": "Choose platforms",
+    "agreement": {
+      "one": "I agree to Real Pro Bet's",
+      "termsOfServiceLink": "terms of service",
+      "three": "and",
+      "privacyPolicyLink": "privacy policy"
+    },
+    "sendButton": "Sign Up",
+    "confirmationButton": "Ok",
+    "success": {
+      "title": "Success",
+      "text": "We've just sent you an activation email. Please check your email and click the link in the email we sent. If you don't receive it momentarily, please check your spam folder to."
+    },
+    "error": {
+      "title": "Somethink went wrong",
+      "text": "Please, try it again later"
+    }
+  }
+}
